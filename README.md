@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src=".github/banner.svg" alt="MindVault Banner" width="100%" />
-
 # 🧠 MindVault
 
 **An offline-first personal second brain built with Next.js.**
